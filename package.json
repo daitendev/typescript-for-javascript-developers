@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/daitendev/typescript-for-javascript-developers/issues"
   },
-  "homepage": "https://github.com/daitendev/typescript-for-javascript-developers#readme"
+  "homepage": "https://github.com/daitendev/typescript-for-javascript-developers#readme",
+  "dependencies": {
+    "typescript": "^4.9.3"
+  }
 }
