@@ -7,7 +7,11 @@ interface ObjectInterface {
   age: number;
 }
 
-let object: ObjectInterface = {
+let object: ObjectType = {
+  name: 'manu',
+  age: 20
+}
+let object2: ObjectInterface = {
   name: 'manu',
   age: 20
 }
